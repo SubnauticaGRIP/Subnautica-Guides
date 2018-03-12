@@ -3,6 +3,8 @@ The Guides section is a list of all current guides created by the G.R.I.P. file 
 
 ://github.com/Dragenst1/SubG-Previous-Versions
 
+
+
 The following content is technical information and is not necessary for basic file navigation.
 Main sections included:
 	"Guides"
