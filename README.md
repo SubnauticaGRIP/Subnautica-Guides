@@ -10,3 +10,8 @@ Main sections included:
 	"Guides"
 Section Coded UUIDs:
 	Guides:635d1dbc-2592-11e8-b467-0ed5f89f718b
+
+!Content Notification!
+All content of this repository is property of the SubnauticaGRIP team and cannot be used by any means without direct consent/permission from any of the following administrators:
+
+Dragenst1, CeraK
